@@ -23,9 +23,9 @@ Shadcn for ui components, home would be customizable so we'll use svelte compone
 # Screens
 | Flow | Desktop | Mobile |
 | --- | --- | --- |
-| Shell landing | ![Shell](frontend/mocks/shell.png) | ![Shell mobile](frontend/mocks/shell-mobile.png) |
 | Home widgets | ![Home](frontend/mocks/home.png) | ![Home mobile](frontend/mocks/home-mobile.png) |
 | Insights dashboards | ![Insights](frontend/mocks/insights.png) | ![Insights mobile](frontend/mocks/insights-mobile.png) |
 | Webhooks overview | ![Webhooks](frontend/mocks/webhooks.png) | ![Webhooks mobile](frontend/mocks/webhooks-mobile.png) |
+| Shell | ![Shell](frontend/mocks/shell.png) | ![Shell mobile](frontend/mocks/shell-mobile.png) |
 | Settings | ![Settings](frontend/mocks/settings.png) | ![Settings mobile](frontend/mocks/settings-mobile.png) |
 
