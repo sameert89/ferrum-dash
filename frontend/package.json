@@ -30,6 +30,7 @@
 	},
 	"dependencies": {
 		"@tailwindcss/vite": "^4.1.18",
+		"axios": "^1.13.4",
 		"double-ended-queue": "^2.1.0-0",
 		"mode-watcher": "^1.1.0",
 		"tailwindcss": "^4.1.18"
