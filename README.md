@@ -18,7 +18,7 @@ Shadcn for ui components, home would be customizable so we'll use svelte compone
 
 - [x] UI Mocks
 - [ ] Project setup AXUM
-- [ ] Project setup svelte
+- [x] Project setup svelte
 
 # UI mocks
 
