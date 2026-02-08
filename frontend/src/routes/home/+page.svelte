@@ -258,7 +258,7 @@
       <Card.Root class="p-3 h-full flex flex-col">
         <Card.Header class="px-2 flex gap-1">
           <QuickActionsIcon class="w-4 h-4 text-primary" />
-          <Card.Title class="px-0 font-bold">Quick Actions</Card.Title>
+          <Card.Title class="px-0 font-bold">Quick Trigger</Card.Title>
         </Card.Header>
         <Card.Content class="grid grid-cols-2 gap-2 px-2">
           <QuickAction
