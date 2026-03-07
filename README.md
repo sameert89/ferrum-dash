@@ -2,7 +2,7 @@
 	<img src="frontend/src/lib/assets/logo.png" alt="Ferrum Dash logo" width="200">
 </p>
 
-A lightweight, blazingly fast web-based system monitor and remote administration tool for Linux, written in Rust.
+A lightweight single container blazingly fast web-based system monitor and remote administration tool for Linux, written in .NET
 
 # thinking...
 
